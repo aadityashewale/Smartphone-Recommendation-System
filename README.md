@@ -1,17 +1,19 @@
-# .-Smartphone-Recommendation-System-Using-SQL
-🎯 Use Case
+# Smartphone Recommendation System Using SQL
 
-1.Recommend top smartphones based on:
-2.Budget
-3.RAM
-4.5G availability
-5.Fast charging
-6.Rating & specs ranking
-📌 Project Overview
-The smartphone market contains a wide range of devices with varying prices, features, and specifications.
-This project uses SQL to analyze smartphone data and derive insights related to pricing trends, feature impact, and customer value.
+## 🎯 Use Case
+### Recommend top smartphones based on:
+1.Budget<br>
+2.RAM<br>
+3.5G availability<br>
+4.Fast charging<br>
+5.Rating & specs ranking<br>
 
-🎯 Objectives
+
+##📌 Project Overview
+- The smartphone market contains a wide range of devices with varying prices, features, and specifications.<br>
+- This project uses SQL to analyze smartphone data and derive insights related to pricing trends, feature impact, and customer value.
+
+##🎯 Objectives
 Analyze smartphone pricing across brands
 Compare 5G vs non-5G devices
 Identify value-for-money smartphones
