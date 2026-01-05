@@ -35,19 +35,19 @@ fast_charging_available
 has_nfc
 
 ## 🧰 Tools Used
--- SQL (MySQL / PostgreSQL)
+- SQL (MySQL / PostgreSQL)
 - DBMS
--- CSV Dataset
+
 
 ## 🔍 Key Analysis Performed
-1.Average price by brand
-2.5G vs non-5G price comparison
-3.Battery & camera feature analysis
-4.Value-for-money smartphone identification
-5.Smartphone ranking using window functions
-6.Feature-based smartphone recommendation
+1.Average price by brand<br>
+2.5G vs non-5G price comparison<br>
+3.Battery & camera feature analysis<br>
+4.Value-for-money smartphone identification<br>
+5.Smartphone ranking using window functions<br>
+6.Feature-based smartphone recommendation<br>
 
 ## 📊 Sample Insights
-- 5G smartphones are priced higher on average than non-5G devices
-- Certain brands offer higher battery capacity at competitive prices
+- 5G smartphones are priced higher on average than non-5G devices<br>
+- Certain brands offer higher battery capacity at competitive prices<br>
 - Some smartphones deliver high ratings under ₹20,000, indicating strong value
